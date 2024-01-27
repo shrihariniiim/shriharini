@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-printf("HELLO WORLD");
+printf("vanakam ulagam");
+
 return 0;
 }
